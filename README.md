@@ -6,8 +6,3 @@ images and keras library to apply Convolutional
 neural network.                                                                
 - I used Haarcascade classifier to Detect the face in        
 the Live Video.
-
-
-
-
-
